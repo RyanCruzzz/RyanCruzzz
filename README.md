@@ -8,7 +8,7 @@ Me chamo Ryan Paulino Machado da Cruz, tenho 19 anos e sou natural do Paraná. C
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/RyanEng18?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/RyanCruzzz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/RyanCruzzz?tab=followers">
